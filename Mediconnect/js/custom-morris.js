@@ -13,8 +13,8 @@
       { y: '2017 Q2', Appointments: 18 },
       { y: '2017 Q3', Appointments: 70 },
       { y: '2017 Q4', Appointments: 32 },
-      { y: '2018 Q1', Appointments: 15 },
-      { y: '2018 Q2', Appointments: 53 }
+      { y: '2024 Q1', Appointments: 15 },
+      { y: '2024 Q2', Appointments: 53 }
     ],
     xkey: 'y',
     ykeys: ['Appointments'],
@@ -49,7 +49,7 @@
       y: '2017',
       a: 28
     }, {
-      y: '2018',
+      y: '2024',
       a: 20
     }],
     xkey: 'y',
